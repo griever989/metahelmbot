@@ -1,0 +1,17 @@
+{
+  "name": "metahelmbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "moment": "^2.10.6",
+    "redis": "^2.2.5",
+    "slack-client": "^1.4.1"
+  }
+}
